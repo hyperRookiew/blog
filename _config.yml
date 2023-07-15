@@ -103,7 +103,7 @@ theme: oranges
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:Yunqi-Fang/Yunqi-Fang.github.io.git
+  repo: git@github.com:hyperRookiew/hyperRookiew.github.io.git
   branch: main
 
 # search
